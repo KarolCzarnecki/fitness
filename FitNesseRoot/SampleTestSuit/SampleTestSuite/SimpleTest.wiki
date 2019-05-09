@@ -1,0 +1,11 @@
+!define TEST_SYSTEM {slim}
+
+#!path /home/karol/git/fitness/FitNesseRoot/SampleTestSuit
+
+!path ./FitNesseRoot/SampleTestSuit
+
+!|Division|
+|numerator|denominator|quotient?|
+|10       |2          |5.0      |
+|12.6     |3          |4.2      |
+|100      |4          |25.0     |
